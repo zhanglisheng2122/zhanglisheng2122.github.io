@@ -61,15 +61,15 @@ JVM基于进入和退出Monitor对象来实现方法同步和代码块同步，m
 ### Java对象头
 >synchronized使用的锁是存放在Java对象头里面  
 
-![avatar](http://39.105.137.135:8081/blog/syn/2019-07-16-Synchronized_01.png)
+![avatar](/images/blog/2019-07-16-Synchronized_01.png)
 >具体位置是对象头里面的MarkWord，MarkWord里默认数据是存储对象的HashCode等信息  
 
-![avatar](http://39.105.137.135:8081/blog/syn/2019-07-16-Synchronized_02.png)
+![avatar](/images/blog/2019-07-16-Synchronized_02.png)
 
 
 >但是会随着对象的运行改变而发生变化，不同的锁状态对应着不同的记录存储方式
 
-![avatar](http://39.105.137.135:8081/blog/syn/2019-07-16-Synchronized_03.png)
+![avatar](/images/blog/2019-07-16-Synchronized_03.png)
 
 
 ## 锁升级与对比
@@ -78,7 +78,7 @@ JVM基于进入和退出Monitor对象来实现方法同步和代码块同步，m
 ### 偏向锁
 >它会偏向于第一个访问锁的线程，如果在运行过程中，同步锁只有一个线程访问，不存在多线程争用的情况，则线程是不需要触发同步的，减少加锁／解锁的一些CAS操作（比如等待队列的一些CAS操作），这种情况下，就会给线程加一个偏向锁。 如果在运行过程中，遇到了其他线程抢占锁，则持有偏向锁的线程会被挂起，JVM会消除它身上的偏向锁，将锁恢复到标准的轻量级锁。它通过消除资源无竞争情况下的同步原语，进一步提高了程序的运行性能。  
 
-![avatar](http://39.105.137.135:8081/blog/syn/2019-07-16-Synchronized_05.png)
+![avatar](/images/blog/2019-07-16-Synchronized_05.png)
 
 ### 轻量级锁  
 >轻量级锁是由偏向锁升级来的，偏向锁运行在一个线程进入同步块的情况下，当第二个线程加入锁争用的时候，偏向锁就会升级为轻量级锁。  
@@ -89,11 +89,11 @@ JVM基于进入和退出Monitor对象来实现方法同步和代码块同步，m
 #### 轻量级锁的解锁过程：
 >轻量锁解锁时，会使用原子的CAS操作将Displaced Mark Word替换回对象头，如果成功表示没有发生竞争，如果失败，表示当前存在锁竞争，锁就会膨胀成重量级锁。  
 
-![avatar](http://39.105.137.135:8081/blog/syn/2019-07-16-Synchronized_04.png)
+![avatar](/images/blog/2019-07-16-Synchronized_04.png)
 
 ## 锁的优缺点对比
 
-![avatar](http://39.105.137.135:8081/blog/syn/2019-07-16-Synchronized_06.png)
+![avatar](/images/blog/2019-07-16-Synchronized_06.png)
 
 ## JDK对锁的更多优化措施
 ### 逃逸分析
