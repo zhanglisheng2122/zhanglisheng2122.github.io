@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9a64ccb-5cc6-450f-81f2-024b1c01663d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2019-07-16-synchronized.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2011-05-25-export-data-from-excel-to-word-by-vba.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2011-05-25-gather-multi-excel-to-one-by-vba.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2011-10-11-fibonacci.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2011-11-04-basis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2011-11-06-basis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2011-11-20-permutation.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2012-02-12-hge.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2012-02-24-gecko-embed.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2012-03-01-mozilla-file-tree.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2012-03-15-gecko-plugin.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2012-03-22-vba-knowledge.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2012-04-05-learn-python-practise.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2012-04-08-learn-python-practise.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2012-06-17-windows-skills.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2012-06-19-gecko-use-profile.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2013-04-18-windows-ui-notes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2013-05-19-when-your-exe-name-contains-install-or-setup.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2013-06-22-multi-included-source-file.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2013-10-26-namespace-with-a-static-variable.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2013-11-23-HFDP-Notes1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2013-12-03-HFDP-Notes2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2013-12-22-HFDP-Notes3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-02-19-excel-incommonuse.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-03-07-pits-in-windows.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-05-10-numbersign.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-05-24-virtualfunctions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-05-31-HFDP-Note4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-06-01-comsketch.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-06-29-acl-chapter2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-07-13-cppinit.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-07-13-dllsearch.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-07-19-fiddlerwithwinhttp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-07-20-fiddlercontextmenu.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-08-01-deadlock.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-09-13-make-exe-small.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-10-09-path-after-rename.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-10-12-csdnresautocomment.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-12-21-vim-python-autocomplete.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-12-31-simplify-apk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-01-19-printf.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-03-31-singleton-process.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-04-03-java-date.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-04-06-dp-sp-px.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-05-06-android-studio.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-05-10-emacs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-05-15-java-compare.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-05-27-svn-exception.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-06-14-win-discuz.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-06-23-vim-taglist-smali.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-07-08-fiddler-filter-by-device.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-10-25-mac.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-10-31-pits-in-vimscript.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-12-02-excel-sift.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-12-05-diff-between-gfm-and-redcarpet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-12-15-java-object-finalize.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-12-19-vim-markdown-toc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-01-12-use-ubuntu-notes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-01-14-android-system-cache.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-01-16-build-zeal-for-mac-osx.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-02-04-switch-to-kramdown-from-redcarpet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-02-10-am-start-user-parameter.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-04-07-how-to-use-github-effective.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-04-18-develop-nodejs-with-atom.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-04-20-determine-if-my-activities-foreground.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-05-21-enable-https-for-github-pages.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-06-28-vim-kramdown-tab.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-07-11-remove-https.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-08-03-add-outline-for-markdown-in-vim.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-08-30-java-guide-to-cpp-programmers.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-09-20-java-output-ab.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-10-22-vim-markdown-toc-release.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-12-14-rtfsc-with-opengrok.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-08-20-java-auto-boxing-unboxing.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-09-01-markdown-odd-skills.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-09-11-joins-in-sql.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-09-23-rtfsc-android-start.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-10-05-rtfsc-methods-and-meaning.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-10-14-guanggoo-android-app.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-10-24-1024-poses.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-11-12-start-from-toast.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-12-03-tcp-connect-between-android-emulators.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-04-30-guanggoo-android-app-new-version.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-06-11-handler-looper-massagequeue.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-09-06-markdown-intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-07-16-markdown-intro.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-05-25-a-stupid-bug.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/blog/2014-08-26-takephotos.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/blog/2014-08-30-aboutlife.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/blog/2014-09-27-myself.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/blog/2014-10-28-sevenhabits.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/blog/2014-11-25-jestem.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/blog/2014-12-06-emotion-manage.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/blog/2014-12-07-habit-training-1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/blog/2014-12-14-find-a-girl-friend.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/blog/2015-02-01-some-impressions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/blog/2015-02-14-strum-life.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/blog/2015-03-30-work-lesson.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/blog/2015-05-09-no-need-to-tangle.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/blog/2015-05-28-leader-art.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/blog/2015-06-01-sogou-hackathon.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/blog/2015-06-12-wangxiaobo.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/blog/2015-07-23-busy-smart.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/blog/2015-09-02-love.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/blog/2015-10-25-without-internet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/blog/2016-03-14-show-chump.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/blog/2017-01-01-my-2016.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/blog/2017-02-19-the-kite-runner.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/blog/2017-04-09-a-difficult-decision.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/blog/2019-01-20-my-2018.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_wiki/android-studio.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_wiki/axure.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_wiki/badminton.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_wiki/chinese-copywriting-guidelines.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_wiki/eclipse.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_wiki/emacs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_wiki/git.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_wiki/good-soft.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_wiki/ida-pro.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_wiki/intellij-idea.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_wiki/linux.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_wiki/mac.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_wiki/markdown.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_wiki/mpv.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_wiki/ollydbg.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_wiki/onenote.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_wiki/php.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_wiki/powershell.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_wiki/python.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_wiki/qt-creator.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_wiki/source-insight.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_wiki/swimming.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_wiki/template.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_wiki/vim.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_wiki/visio.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_wiki/visual-studio-code.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_wiki/visual-studio.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/1024-gold.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/1024-kuaishou.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/1024-meituan.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/1024-sogou.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/1024-vote.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/2016-plan-progress.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/2018-books-and-movies.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/2018-github.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/2018-guanggu-running.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/2018-luoyang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/2018-phuket.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/3w-programmer.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/Andy-Lau.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/Diamond.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/Sharp-Brother.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/books-and-movies.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/chenmodedaduoshu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/doubt.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/encourage.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/excellence.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/fake.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/github-contributions-2016.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/hackathon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/jestem-bs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/jestem-poem.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/jestem.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/kepu.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/landscape.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/marathon-2016.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/meet-problem.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/offline.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/overtime.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/qianzou.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/release-books.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/request-love.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/solve-method1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/solve-method2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/the-kite-runner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/three-gooses.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/three-steps.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/time-manage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/two-circles.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/two-steps.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/wangxiaobozhimu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/wudaokou.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/android/am-start-call-stack.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/android/android-studio-check-sdk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/android/android-studio-javadoc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/android/android-support-repository.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/android/app-process.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/android/authority-demo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/android/default-size.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/android/emulators-communication.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/android/font-size.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/android/installed-app-details.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/android/ip-address.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/android/new-project.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/android/prepare-main-looper.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/android/private-library.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/android/remove-appcompat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/android/size-without-v4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/android/size-without-v7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/android/start-activity-call-stack.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/android/toast.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/com/clientcallcom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/com/contain.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/com/outprocess.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/com/polymerize.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/com/polynormal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/com/polypoly.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/cplusplus/derivenooverride.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/cplusplus/derivenooverride_mem.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/cplusplus/deriveoverride.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/cplusplus/deriveoverride_mem.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/cplusplus/diamond.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/cplusplus/diamond_mem.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/cplusplus/multiderive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/cplusplus/multiderive_mem.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/cplusplus/objectwithnovirtual.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/cplusplus/objectwithnovirtual_mem.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/cplusplus/objectwithvirtual.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/cplusplus/objectwithvirtual_mem.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/cplusplus/staticstring_helloworld.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/cplusplus/virtualderive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/cplusplus/virtualderive_mem.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/database/Visual_SQL_JOINS_orig.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/database/cross-join.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/database/full-outer-join-excluding-inner-join.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/database/full-outer-join.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/database/general-joins.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/database/inner-join.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/database/left-join-excluding-inner-join.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/database/left-join.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/database/right-join-excluding-inner-join.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/database/right-join.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/database/sql-joins.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/designpattern/DecoratorPattern.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/designpattern/ObserverPattern.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/designpattern/SingletonPattern.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/designpattern/StrategyPattern.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/excel/remove-duplicate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/fiddler/fiddler-filter-by-device-after.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/fiddler/fiddler-filter-by-device-before.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/gecko/gecko_embed.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/gecko/gecko_embed_err1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/gecko/gecko_embed_err2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/gecko/geckouseprofile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/gecko/plugin_dat.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/gecko/plugin_dll.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/gecko/plugin_properties.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/gecko/plugin_properties2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/gecko/plugin_reg.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/github/github-pages-with-https.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/github/https-config-dns.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/github/https-config-gh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/github/https-config-plugin-store.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/github/https-config-redirection-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/github/https-config-redirection-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/github/https-config-server-ip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/github/https-kloudsec-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/java/a-stupid-bug-normal-sequence.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/java/a-stupid-bug-wrong-sequence.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/java/add-brace.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/java/output-ab.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/java/this-unscientific.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/java/what-is-wrong.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/java/you-kidding-me.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/linux/install-additions.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/linux/xdiagnose-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/linux/xdiagnose.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/mac/dash-wait.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/mac/white-rectangle.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/mac/zeal-for-mac.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/markdown/demo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/markdown/latex-img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/node/ternjs-auto-completion.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/node/ternjs-configure-project.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/php/add-website.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/php/discuz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/php/fastcgi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/php/iis.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/php/mysql-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/php/mysql-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/php/mysql-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/php/mysql-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/php/mysql-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/php/mysql-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/php/mysql-7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/php/mysql-8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/php/mysql-9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/php/nat-bind-ip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/php/phpinfo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/python/csdncommenter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/python/csdnscore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/tools/catalina-home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/tools/opengrok-scr1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/tools/opengrok-scr2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/vim/gvim-32bit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/vim/gvim-with-python.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/vim/smali-vim.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/vim/vim-markdown-outline.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/vim/vim-python-autocomplete.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/vim/vim-without-python.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/windows/a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/windows/library-to-computer-step-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/windows/library-to-computer-step-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/windows/name.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/windows/pca.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/windows/queryfullprocessimagename.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/windows/rclick.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/windows/setup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/visio/objmem.vsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/wiki/breaststroke.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/wiki/code-generation-naming.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/wiki/eclipse-need-java6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/wiki/jump-from-class-to-layout.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/wiki/jump-from-layout-to-class.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/wiki/visio-png-size.png" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-787058889">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="CNAME" value="1" />
+          <entry key="Gemfile" value="1" />
+          <entry key="html" value="13" />
+          <entry key="jpeg" value="2" />
+          <entry key="jpg" value="1" />
+          <entry key="js" value="1" />
+          <entry key="json" value="1" />
+          <entry key="md" value="16" />
+          <entry key="png" value="18" />
+          <entry key="svg" value="3" />
+          <entry key="yml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="13" />
+          <entry key="Image" value="21" />
+          <entry key="JSON" value="1" />
+          <entry key="JavaScript" value="1" />
+          <entry key="Markdown" value="16" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="SVG" value="3" />
+          <entry key="YAML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="61" />
+          <entry key="md" value="15" />
+          <entry key="yml" value="146" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="61" />
+          <entry key="Markdown" value="15" />
+          <entry key="YAML" value="146" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>技术文章推送</find>
+      <find>邮箱：</find>
+      <find>_posts</find>
+      <find>site.baseurl</find>
+      <find>site</find>
+      <find>disqus_shortname</find>
+      <find>theme</find>
+      <find>posts</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/_includes/footer.html" />
+        <option value="$PROJECT_DIR$/_posts/2019-07-16-Markdown-tutorial.md" />
+        <option value="$PROJECT_DIR$/_includes/contact.html" />
+        <option value="$PROJECT_DIR$/_layouts/default.html" />
+        <option value="$PROJECT_DIR$/_layouts/post.html" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_posts/2019-07-16-synchronized.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="5" />
+    <option name="width" value="1545" />
+    <option name="height" value="835" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="zhanglisheng2122.githup.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zhanglisheng2122.githup.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563437442627" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\githup\zhanglisheng2122.githup.io\_posts" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9a64ccb-5cc6-450f-81f2-024b1c01663d" name="Default Changelist" comment="" />
+      <created>1563259667846</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563259667846</updated>
+      <workItem from="1563259669688" duration="3097000" />
+      <workItem from="1563420501831" duration="6197000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9294000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31099194" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_includes/categories.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="86" column="27" selection-start-line="86" selection-start-column="11" selection-end-line="86" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/projects.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="25" column="65" selection-start-line="25" selection-start-column="65" selection-end-line="25" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/image/2019-07-16-Synchronized_02.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/image/2019-07-16-Synchronized_05.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/image/2019-07-16-Synchronized_06.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/image/2019-07-16-Synchronized_01.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-620" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.eslintrc.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="475">
+            <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019/02/25/3个linux-系统检测工具/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12247" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019/03/26/EM算法及其推广/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5503">
+          <caret line="140" lean-forward="true" selection-start-line="140" selection-end-line="140" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/cc-by.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/2/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNAME">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="83" column="45" selection-start-line="83" selection-start-column="45" selection-end-line="83" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_wiki/android-studio.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-741" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_wiki/axure.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_wiki/badminton.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_wiki/php.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-114" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/template.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/blog/2014-12-07-habit-training-1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-513" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/blog/2015-05-28-leader-art.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-05-25-a-stupid-bug.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-06-11-handler-looper-massagequeue.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-1738">
+            <caret line="169" lean-forward="true" selection-start-line="169" selection-end-line="169" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-07-16-markdown-intro.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-3990" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_wiki/swimming.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-07-16-synchronized.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-171">
+            <caret line="33" column="16" lean-forward="true" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/octicons-bg.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/blog/3w-programmer.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/blog/1024-meituan.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/blog/wudaokou.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/archives.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/posts/android/am-start-call-stack.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/posts/android/android-studio-javadoc.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/posts/android/authority-demo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/posts/android/app-process.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/posts/python/csdncommenter.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/posts/vim/gvim-32bit.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/posts/vim/gvim-with-python.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/posts/windows/a.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/posts/windows/library-to-computer-step-2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/posts/windows/pca.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/posts/windows/queryfullprocessimagename.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/wiki/breaststroke.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/posts/windows/rclick.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/posts/java/a-stupid-bug-normal-sequence.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/posts/java/a-stupid-bug-wrong-sequence.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
