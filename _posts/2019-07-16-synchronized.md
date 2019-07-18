@@ -1,13 +1,9 @@
 ---
-  layout:     post                
-  title:      Java并发编程笔记      
-  subtitle:   synchronized内置锁    
-  date:       2019-07-16           
-  author:     张立盛               
-  original: true                  
-  tags:                           
-      - java
-      - 并发编程
+layout: post
+title: Java并发编程笔记      
+categories: JAVA并发编程
+description: synchronized内置锁   
+keywords: Markdown
 ---
 
 # synchronized内置锁
