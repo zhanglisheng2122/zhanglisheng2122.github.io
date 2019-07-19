@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Java并发编程笔记      
+title: ThreadLocal辩析   
 categories: JAVA并发编程
-description: ThreadLocal辩析
+description: ThreadLocal辩析    
 keywords: Markdown
 ---
 

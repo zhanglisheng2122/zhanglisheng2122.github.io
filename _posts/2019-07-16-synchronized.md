@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Java并发编程笔记      
+title: synchronized内置锁   
 categories: JAVA并发编程
 description: synchronized内置锁   
 keywords: Markdown
